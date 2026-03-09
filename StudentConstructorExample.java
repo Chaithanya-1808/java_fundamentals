@@ -38,4 +38,5 @@ public class ClassExample5{
         obj2.display();
         obj2.avg();
     }
+
 }
